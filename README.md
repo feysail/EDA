@@ -1,2 +1,3 @@
 # EDA
-This is Expaltory data analysis on solar energy
+This is Explatory data analysis on solar energy on Benin
+
